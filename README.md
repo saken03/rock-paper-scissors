@@ -8,8 +8,6 @@ This is a simple Rock-Paper-Scissors game implemented using HTML, CSS, and JavaS
 - [Demo](#demo)
 - [Features](#features)
 - [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 
