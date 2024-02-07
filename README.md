@@ -30,5 +30,5 @@ You can play the game live [here](https://saken03.github.io/rock-paper-scissors/
 To play the game locally, simply clone the repository and open the `index.html` file in your web browser:
 
 ```bash
-git clone https://github.com/your-username/rock-paper-scissors.git
+git clone https://github.com/saken03/rock-paper-scissors.git
 cd rock-paper-scissors
